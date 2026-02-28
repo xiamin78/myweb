@@ -106,7 +106,7 @@ a {
         height: 800px;
         display:flex;
         flex-flow: column nowrap;
-        background-image: url("/img/first.jpg");
+        background-image: url("/myweb/img/first.jpg");
         background-size: 100% 100%;
         background-repeat: norepeat;
         .ad1-introduction {
@@ -154,22 +154,22 @@ a {
             }
 
             .item1 {
-                background-image:url("/img/1.webp");
+                background-image:url("/myweb/img/1.webp");
             }
             .item2 {
-                background-image:url("/img/2.webp");
+                background-image:url("/myweb/img/2.webp");
             }
             .item3 {
-                background-image:url("/img/3.webp");
+                background-image:url("/myweb/img/3.webp");
             }
             .item4 {
-                background-image:url("/img/4.webp");
+                background-image:url("/myweb/img/4.webp");
             }
             .item5 {
-                background-image:url("/img/5.webp");
+                background-image:url("/myweb/img/5.webp");
             }
             .item6 {
-                background-image:url("/img/6.webp");
+                background-image:url("/myweb/img/6.webp");
             }
         }
     }
@@ -220,10 +220,10 @@ a {
                 }
             }
             .item1 {
-                background-image: url("/img/3_1.webp");
+                background-image: url("/myweb/img/3_1.webp");
             }
             .item2 {
-                background-image: url("/img/3_2.webp");
+                background-image: url("/myweb/img/3_2.webp");
             }
         }
     }
@@ -268,13 +268,13 @@ a {
                 }
             }
             .item1 {
-               background-image: url("/img/4_1.webp");
+               background-image: url("/myweb/img/4_1.webp");
             }
             .item2 {
-                background-image: url("/img/4_2.webp");
+                background-image: url("/myweb/img/4_2.webp");
             }
             .item3 {
-                background-image: url("/img/4_3.webp");
+                background-image: url("/myweb/img/4_3.webp");
             }
         }
     }
